@@ -1,0 +1,2 @@
+# cameradetect
+detect hik camera
